@@ -122,7 +122,7 @@ function HotelInfo({interval = 5000}) {
                 <img src="images/unsplash_xc4oxgAbDmw.svg" alt="" className="w-full" data-aos="zoom-in" />
             </div>
 
-            <div className="w-full mt-7 border-[5px] border-[#2BAE66] rounded-xl px-4 md:w-[32rem]" data-aos="zoom-out">
+            <div className="w-full mt-7 border-[5px] border-[#2BAE66] rounded-xl px-4 md:w-[32rem]" data-aos="zoom-in">
                 <h1 className="py-10 text-xl font-bold font-montserrat">Schedul Today!</h1>
 
                 <div className="">
